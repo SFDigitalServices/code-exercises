@@ -1,6 +1,9 @@
-# Your repo title here
+# SF Digital Services code exercises
 
-This is a repo template for SF Digital Services. Here's what it does:
+These are coding exercises that we use for hiring [SF Digital Services] engineering roles:
 
-1. The default branch is `main`, not `master`.
-2. The [MIT license](LICENSE) is included by default.
+- [Front end (React) app](./frontend-react/)
+
+License: [MIT](LICENSE)
+
+[sf digital services]: https://sf.gov/departments/city-administrator/digital-services
